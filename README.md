@@ -1,5 +1,6 @@
 # Sistemas-Inteligentes
 - Foi desenvolvido vários algoritmos para aprendizado de máquina e redes neurais.
+- Algoritmo de aprendizagem supervisionado (classificação)
 - Rede Neural em CNN
 - Rede Neural em LSTM
 - Rede Neural em MPL
